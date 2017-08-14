@@ -23,7 +23,7 @@ representing the GBDX `catalogID`, `platformName` and `timestamp`.
 ## Notes
 
 * You will need to create a
-  [free evaluation account](https://gbdxdocs.digitalglobe.com/) on the GBDX
+  [free evaluation account](https://gbdxdocs.digitalglobe.com/v1/page/try-gbdx-for-free) on the GBDX
   platform.
 
 * Please submit your code with an overview document describing how to run it and
