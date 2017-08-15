@@ -4,8 +4,8 @@ Thanks for applying to work at FATMAP. We have developed this small task for you
 to work on in your own time so that we can see how you approach tasks and as a
 discussion point going forwards.
 
-Try to spend less than two hours on this task - and don't worry if it is not
-complete, we prefer to see quality over quantity.
+Try not to spent more than half a day on this task in total - and don't worry if
+it is not complete, we prefer to see quality over quantity.
 
 ## The task
 
